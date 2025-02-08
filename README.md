@@ -21,7 +21,7 @@ A simple REST API built with Go and Gin, featuring JWT authentication, event man
 1. Clone the repository:
    ```sh
    git clone https://github.com/marcusvramos/go-rest-api.git
-   cd your-repo
+   cd go-rest-api
    ```
 
 2. Install dependencies:
