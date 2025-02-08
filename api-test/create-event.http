@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RlMkBnbWFpbC5jb20iLCJleHAiOjE3MzkwNDE3NzgsInVzZXJJZCI6MX0.UDKB5HwsXJ5Swkh7_ZalACbtp4OM9xrOMofD2MOV4L0
+
+{
+  "title": "Test Event second token",
+  "description": "This is a test event",
+  "location": "Test Location",
+  "date_time": "2021-12-31T23:59:59Z"
+}

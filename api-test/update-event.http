@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/5
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RlQGdtYWlsLmNvbSIsImV4cCI6MTczOTAzOTcwOCwidXNlcklkIjoxfQ.-_juB0lMukZrfxSBPSe7yD2mrZeZSuCrNFn6uZ1anDw
+
+{
+  "title": "Test Event 3",
+  "description": "This is a test event 3",
+  "location": "Test Location 3",
+  "date_time": "2021-12-31T23:59:59Z"
+}
